@@ -14,3 +14,13 @@
 
 ### ● Excel, SQL, Python, Power BI.
 ### ● Data Analysis, Data manipulation, Descriptive Statistics, Inferential Statistics, Problem Solving, Business sense, Data Modeling, Data Mining, Data Visualization and Dashboard making.
+# Hobbies and Interest <img width="100" height="70" alt="image" src="https://github.com/user-attachments/assets/e1a0fb60-122e-4185-93f1-857a39301fab" />
+### ➢ Reading Books <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/b6e70de9-5178-4fd3-9bd6-470788606275" />
+
+### ➢ Playing Football <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/54e467c9-ab80-465b-b67e-d48694acbaf4" />
+
+### ➢ Travelling <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/b6a0d7f4-6738-4c3b-986c-14a31227343d" />
+
+### ➢ Cooking <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/08972d18-0bb7-4771-bae7-420de4c254c1" />
+
+

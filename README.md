@@ -8,7 +8,7 @@
 ### Data Analytics + Python Career Track (SkilloVilla) https://www.skillovilla.com/certificate/305FEV3O
 # Experience <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/c3cd29aa-b807-41d6-9cf7-e12a6ed381fb" />
 
-### 1. Interglobe Aviation Limited ✈ as a AO&CS (20th September 2022 - 23rd August 2024)
+### 1. Interglobe Aviation Limited <img width="50" height="500" alt="image" src="https://github.com/user-attachments/assets/90721b61-fb28-4be7-aaa7-f16a80e04d2a" />as a AO&CS (20th September 2022 - 23rd August 2024)
 ### 2. ETS - Educational Testing Service <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b1b0c395-2960-46b8-93fc-0694c1236106" /> as a QI (1st July 2025 - Currently Working)
 # Skills <img width="100" height="80" alt="image" src="https://github.com/user-attachments/assets/e10f7c14-c71e-4594-a283-54b6bd26576c" />
 
